@@ -1,10 +1,9 @@
 import React from 'react';
+import Form from './mailer/Form';
 
 const App = () => {
     return(
-        <div>
-            hello world hey
-        </div>
+        <Form/>
     );
 }
 
